@@ -25,7 +25,7 @@
     --avatar-roundness: 50%;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, .6);
-    --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+    --background-image: url(https://github.com/AliAnnoyer/bluethemev6/blob/main/sapphire.jpg);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -74,7 +74,7 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
+    --home-icon: url(https://github.com/AliAnnoyer/bluethemev6/blob/main/discord.svg);
     --home-position: center;
     --home-size: 40px
 }
